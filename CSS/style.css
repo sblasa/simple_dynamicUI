@@ -1,0 +1,22 @@
+body {
+    background-color: lemonchiffon;
+
+}
+
+#output div {
+    border: 1px solid aliceblue;
+    margin-bottom: 1rem;
+    width: 100px;
+
+}
+
+.fancy-box1 {
+    background-color: antiquewhite;
+
+
+}
+
+.fancy-box2 {
+
+    background-color: antiquewhite;
+}
